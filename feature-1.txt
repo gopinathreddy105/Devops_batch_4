@@ -1,3 +1,0 @@
-This is a local repository file named as feature-1
-this file only use for trail purpose
-
